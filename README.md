@@ -2,8 +2,8 @@
 
 <div>
 <a href="https://github.com/LeonardoGrufino">
-<img height = "180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoGrufino&show_icons=true&theme=dark"/>
-<img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoGrufino&layout=compact&theme=dark"/>
+<img height = "140em" src="https://github-readme-stats.vercel.app/api?username=LeonardoGrufino&show_icons=true&theme=dark"/>
+<img height = "140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoGrufino&layout=compact&theme=dark"/>
 </div>
 
 ### Tecnologias que utilizo:
