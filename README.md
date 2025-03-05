@@ -1,5 +1,7 @@
 ## Olá! Eu sou o Leonardo Gabriel, desenvolvedor de softwere
 
+💬 Sou um estudante de Analise e desenvolvimento de sistemas e um curioso no mundo back-end
+
 <div>
 <a href="https://github.com/LeonardoGrufino">
 <img height = "160em" src="https://github-readme-stats.vercel.app/api?username=LeonardoGrufino&show_icons=true&theme=dark"/>
