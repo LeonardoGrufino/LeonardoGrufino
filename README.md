@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Leonardo Gabriel, desenvolvedor de softwere
 
-💬 Sou um estudante de Analise e desenvolvimento de sistemas e um curioso no mundo back-end
+💬 Sou um estudante de Analise e desenvolvimento de sistemas e um curioso no mundo full-stack
 
 <div>
 <a href="https://github.com/LeonardoGrufino">
