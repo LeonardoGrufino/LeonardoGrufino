@@ -1,27 +1,35 @@
-## Olá! Eu sou o Leonardo Gabriel, desenvolvedor de softwere
+<h1 align="center">Olá! Eu sou Leonardo Gabriel 😁</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&color=38B2AC&center=true&vCenter=true&width=600&lines=Desenvolvedor+Beck-End;Apaixonado+por+código+e+inovação;Sempre+aprendendo+algo+novo" alt="Animação de digitação">
+</p
 
-💬 Sou um estudante de Analise e desenvolvimento de sistemas e um curioso no mundo beck-end
+---
 
-<div>
-<a href="https://github.com/LeonardoGrufino">
-<img height = "160em" src="https://github-readme-stats.vercel.app/api?username=LeonardoGrufino&show_icons=true&theme=dark"/>
-<img height = "160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoGrufino&layout=compact&theme=dark"/>
+### 👨‍💻 Sobre Mim
+
+<p>
+  Sou um desenvolvedor Beck-End apaixonado por inovações, transformar ideias em soluções tecnológicas e em busca de conseguir meu primeiro emprego como desenvolvedor. Tenho experiência no ciclo beck-end de desenvolvimento utilizando <b>Node.js</b>. Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades.
+</p>
+
+- 📸 Redes sociais: **Leonardogrufino** (LinkedIn) ou **Leozinngabriell** (Instagram)
+
+
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<div align="center" style="display: inline_block"><br/>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  <img alt="Postgre" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
-### Tecnologias que utilizo:
-##
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Leo-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Leo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Leo-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img align="center" alt="leo-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"> 
-  <img align="center" alt="leo-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-</div>
-
-##
+---
           
 <div> 
   <a href="https://www.instagram.com/leozinngabriell?igsh=ZWRtN3gzeXY0OHhv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
