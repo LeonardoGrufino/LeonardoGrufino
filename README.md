@@ -11,7 +11,7 @@
   Sou um desenvolvedor Beck-End apaixonado por inovações, transformar ideias em soluções tecnológicas e em busca de conseguir meu primeiro emprego como desenvolvedor. Tenho experiência no ciclo beck-end de desenvolvimento utilizando <b>Node.js</b>. Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades.
 </p>
 
-- 📸 Redes sociais: **Leonardogrufino** (LinkedIn) ou **Leozinngabriell** (Instagram)
+- 📸 Redes sociais: **Leonardogrufino** (LinkedIn) ou **leonardogrufino** (Instagram)
 
 
 
