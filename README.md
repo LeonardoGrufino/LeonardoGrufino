@@ -1,6 +1,6 @@
 <h1 align="center">Olá! Eu sou Leonardo Gabriel 😁</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&color=38B2AC&center=true&vCenter=true&width=600&lines=Desenvolvedor+Beck-End;Apaixonado+por+código+e+inovação;Sempre+aprendendo+algo+novo" alt="Animação de digitação">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&color=38B2AC&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-End;Apaixonado+por+código+e+inovação;Sempre+aprendendo+algo+novo" alt="Animação de digitação">
 </p
 
 ---
@@ -8,7 +8,7 @@
 ### 👨‍💻 Sobre Mim
 
 <p>
-  Sou um desenvolvedor Beck-End apaixonado por inovações, transformar ideias em soluções tecnológicas e em busca de conseguir meu primeiro emprego como desenvolvedor. Tenho experiência no ciclo beck-end de desenvolvimento utilizando <b>Node.js</b>. Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades.
+  Sou um desenvolvedor Back-End apaixonado por inovações, transformar ideias em soluções tecnológicas e em busca de conseguir meu primeiro emprego como desenvolvedor. Tenho experiência no ciclo back-end de desenvolvimento utilizando <b>Node.js</b>. Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades.
 </p>
 
 - 📸 Redes sociais: **Leonardogrufino** (LinkedIn) ou **leonardogrufino** (Instagram)
